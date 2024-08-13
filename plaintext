@@ -1,0 +1,13 @@
+levipdg-website/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+├── images/
+│   └── (Aquí van las imágenes de tus productos)
+├── logo/
+│   └── levipdg-logo.png
+├── catalog/
+│   └── products.json
+└── README.md
