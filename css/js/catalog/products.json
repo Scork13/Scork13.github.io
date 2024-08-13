@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Producto 1",
+        "description": "Descripción del Producto 1",
+        "price": 25.99,
+        "category": "Categoría A",
+        "image": "images/producto1.jpg",
+        "purchaseLink": "https://linkdecompra.com/producto1"
+    },
+    {
+        "name": "Producto 2",
+        "description": "Descripción del Producto 2",
+        "price": 19.99,
+        "category": "Categoría B",
+        "image": "images/producto2.jpg",
+        "purchaseLink": "https://linkdecompra.com/producto2"
+    }
+]
